@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "Alexander Skogberg",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Alexander-Git-Hub-WP/1dv610laboration1/issues"
   },

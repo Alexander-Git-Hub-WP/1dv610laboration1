@@ -1,10 +1,10 @@
+import readline from 'node:readline'
+
 /**
  * @file A simple greeting application with a ASCII frame.
  * @author Alexander Skogberg <as229kz@student.lnu.se>
  * @version 1.0.0
  */
-
-const readline = require('readline');
 
 const terminal = readline.createInterface({
     input: process.stdin,
