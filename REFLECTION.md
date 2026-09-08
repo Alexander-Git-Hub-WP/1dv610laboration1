@@ -40,7 +40,7 @@ Svar: Det är i stort endast ett välkomstmeddelande. Endast en fråga vad man h
 
 *Samarbetade du med någon AI-assistent (t.ex. ChatGPT, GitHub Copilot, Claude) — som en kollega snarare än bara ett verktyg? Beskriv kort hur, och ge gärna ett exempel på en prompt som gav ett bra resultat.*
 
-Svar: Ja, jag har tagit hjälp av Google Gemini. Främst för att få en simpel idé som var lätt förståelig och som jag sedan kunde skriva om till mer begrilig kod som vi lärt oss från år 1. T.ex. att jag gick ifrån require (CommonJS) till import (ES-moduler) istället.
+Svar: Ja, jag har tagit hjälp av Google Gemini. Främst för att få en simpel idé som var lätt förståelig och som jag sedan kunde skriva om till mer begrilig kod som vi lärt oss från år 1. T.ex. att jag gick ifrån require (CommonJS) till import (ES-moduler) istället (vet från tidigare år 1 att vi använt oss av import men ville då även dubbelkolla med Gemini och frågade vilken standard som är bäst idag och fick då svaret import istället för require som ett försäkrande), samt att jag fick bra rekomendation från Gemini att använda readline-modulen i Node.js för laborationens ändamål/krav, vilket sparar tid och blir mer effektivt och pålitligt då det är en inbyggd standard.
 
 ## 6. Bild eller video
 
